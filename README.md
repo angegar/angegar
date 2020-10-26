@@ -1,6 +1,4 @@
-### Hi there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working at [DXC Technology](https://www.dxc.technology). I am maintaining the internal DevOps tools chain composed of Jenkins, Artifactory, GitHub, Jira plus some observability and monitoring tools such as Grafana, Prometheus, Fluentd, Elasticserach + Kibana. I am also involved as DevOps coach to transmit our DevOps culture and knowledge to other teams.
 
